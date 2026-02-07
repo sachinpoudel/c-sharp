@@ -1,0 +1,4 @@
+/media/storage/Desktop/dotnet_mini-project/App2/obj/Debug/net8.0/App2.GeneratedMSBuildEditorConfig.editorconfig
+/media/storage/Desktop/dotnet_mini-project/App2/obj/Debug/net8.0/App2.AssemblyInfoInputs.cache
+/media/storage/Desktop/dotnet_mini-project/App2/obj/Debug/net8.0/App2.AssemblyInfo.cs
+/media/storage/Desktop/dotnet_mini-project/App2/obj/Debug/net8.0/App2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/media/storage/Desktop/dotnet_mini-project/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
