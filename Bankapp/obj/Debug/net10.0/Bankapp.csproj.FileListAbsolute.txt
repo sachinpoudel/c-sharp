@@ -1,0 +1,15 @@
+/media/storage/Desktop/dotnet_mini-project/Bankapp/bin/Debug/net10.0/Bankapp
+/media/storage/Desktop/dotnet_mini-project/Bankapp/bin/Debug/net10.0/Bankapp.deps.json
+/media/storage/Desktop/dotnet_mini-project/Bankapp/bin/Debug/net10.0/Bankapp.runtimeconfig.json
+/media/storage/Desktop/dotnet_mini-project/Bankapp/bin/Debug/net10.0/Bankapp.dll
+/media/storage/Desktop/dotnet_mini-project/Bankapp/bin/Debug/net10.0/Bankapp.pdb
+/media/storage/Desktop/dotnet_mini-project/Bankapp/obj/Debug/net10.0/Bankapp.GeneratedMSBuildEditorConfig.editorconfig
+/media/storage/Desktop/dotnet_mini-project/Bankapp/obj/Debug/net10.0/Bankapp.AssemblyInfoInputs.cache
+/media/storage/Desktop/dotnet_mini-project/Bankapp/obj/Debug/net10.0/Bankapp.AssemblyInfo.cs
+/media/storage/Desktop/dotnet_mini-project/Bankapp/obj/Debug/net10.0/Bankapp.csproj.CoreCompileInputs.cache
+/media/storage/Desktop/dotnet_mini-project/Bankapp/obj/Debug/net10.0/Bankapp.sourcelink.json
+/media/storage/Desktop/dotnet_mini-project/Bankapp/obj/Debug/net10.0/Bankapp.dll
+/media/storage/Desktop/dotnet_mini-project/Bankapp/obj/Debug/net10.0/refint/Bankapp.dll
+/media/storage/Desktop/dotnet_mini-project/Bankapp/obj/Debug/net10.0/Bankapp.pdb
+/media/storage/Desktop/dotnet_mini-project/Bankapp/obj/Debug/net10.0/Bankapp.genruntimeconfig.cache
+/media/storage/Desktop/dotnet_mini-project/Bankapp/obj/Debug/net10.0/ref/Bankapp.dll
